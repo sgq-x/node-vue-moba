@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1196941",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "4186075",
+      "name": "皇冠",
+      "font_class": "huangguan",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "10944898",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "13409717",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
